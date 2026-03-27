@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Python cache / compiled files
+__pycache__/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# OS / editor files
+.DS_Store
+
+# 
