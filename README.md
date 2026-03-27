@@ -182,6 +182,11 @@ Update the job description in:
 gtm-agent/data/position/position.txt
 ```
 
+Copy the generated generate structured JSON, note, and email files into
+```
+gtm-agent/data/candidate/
+```
+
 Run:
 
 ```bash
@@ -203,6 +208,8 @@ The system is designed to be robust:
 - Logs failures without stopping execution
 
 # 🧪 Example Use Case
+
+This repository contains the following sample inputs and outputs to easily demonstrate the process without the end user having to run the setup themselves.
 
 Input:
 - 10 candidate resumes
