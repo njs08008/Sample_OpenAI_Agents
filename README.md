@@ -165,7 +165,8 @@ materials-generation-agent/data/resumes/
 Run:
 
 ```bash
-python materials-generation-agent/main.py
+cd materials-generation-agent
+python main.py
 ```
 
 This will:
@@ -184,7 +185,8 @@ gtm-agent/data/position/position.txt
 Run:
 
 ```bash
-python materials-generation-agent/main.py
+cd gtm-agent
+python main.py
 ```
 
 This will:
